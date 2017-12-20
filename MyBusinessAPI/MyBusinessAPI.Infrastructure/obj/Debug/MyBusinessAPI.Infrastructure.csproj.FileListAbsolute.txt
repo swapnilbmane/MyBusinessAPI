@@ -1,0 +1,14 @@
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\MyBusinessAPI.Infrastructure.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\MyBusinessAPI.Infrastructure.pdb
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\MyBusinessAPI.Data.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\EntityFramework.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\MyBusinessAPI.Data.pdb
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\EntityFramework.xml
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\obj\Debug\MyBusinessAPI.Infrastructure.csprojResolveAssemblyReference.cache
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\obj\Debug\MyBusinessAPI.Infrastructure.dll
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\obj\Debug\MyBusinessAPI.Infrastructure.pdb
+D:\devp\MyBusinessAPI\MyBusinessAPI\MyBusinessAPI.Infrastructure\bin\Debug\MyBusinessAPI.Infrastructure.dll.config
